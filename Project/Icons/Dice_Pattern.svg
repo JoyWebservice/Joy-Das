@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="76.084" height="71.372" viewBox="0 0 76.084 71.372">
+  <g id="Dice_Pattern" transform="translate(-218.262 -252.497)" opacity="0.15">
+    <g id="Group_105" data-name="Group 105" transform="translate(218.262 252.497)">
+      <g id="Group_99" data-name="Group 99" transform="translate(0 0)">
+        <circle id="Ellipse_1" data-name="Ellipse 1" cx="28.602" cy="28.602" r="28.602" transform="matrix(0.291, -0.957, 0.957, 0.291, 0, 54.731)" fill="#ffcb7c"/>
+      </g>
+      <g id="Group_104" data-name="Group 104" transform="translate(17.721 7.55)">
+        <g id="Group_100" data-name="Group 100" transform="translate(21.884 21.89)">
+          <path id="Path_199" data-name="Path 199" d="M5435.97,6302.489a7.309,7.309,0,0,1-6.189-3.4h0a7.311,7.311,0,1,1,6.189,3.4Zm-5.481-3.849a6.47,6.47,0,1,0,2.014-8.925,6.478,6.478,0,0,0-2.014,8.925Z" transform="translate(-5428.654 -6287.879)" fill="#242c36"/>
+        </g>
+        <g id="Group_101" data-name="Group 101" transform="translate(15.082 15.089)">
+          <path id="Path_200" data-name="Path 200" d="M5442.164,6305.785l-.446-.707a13.273,13.273,0,1,0-18.311-4.134l-.708.448a14.11,14.11,0,1,1,19.464,4.394Z" transform="translate(-5420.524 -6279.75)" fill="#242c36"/>
+        </g>
+        <g id="Group_102" data-name="Group 102" transform="translate(5.896 5.904)">
+          <path id="Path_201" data-name="Path 201" d="M5432.887,6315.359a23.3,23.3,0,1,1,19.647-35.739l-.707.446a22.462,22.462,0,1,0-14.332,33.975l.173.818A23.082,23.082,0,0,1,5432.887,6315.359Z" transform="translate(-5409.544 -6268.771)" fill="#242c36"/>
+        </g>
+        <g id="Group_103" data-name="Group 103" transform="translate(0)">
+          <path id="Path_202" data-name="Path 202" d="M5431.731,6320.084a29.175,29.175,0,0,1-29.184-30.859l.835.048a28.349,28.349,0,1,0,13.164-22.331l-.447-.707a29.183,29.183,0,1,1,15.632,53.849Z" transform="translate(-5402.497 -6261.714)" fill="#242c36"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

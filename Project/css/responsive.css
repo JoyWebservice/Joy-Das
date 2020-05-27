@@ -1,0 +1,506 @@
+@media only screen and (max-width: 600px) {
+
+  .imenu_logo {
+    margin-left: 0px;
+}
+  .imenu_logo img{
+    height: 60px;
+}
+
+.header_btn {
+    margin-right: 17px;
+    padding: 5px 12px;
+    background: #ff8c00;
+    border: transparent;
+    color: #fff;
+    font-size: 11px;
+
+}
+.header_sign {
+   padding: 5px 12px;
+    background: transparent;
+    border-radius: 33px;
+    border: 1px solid #b8b8b8;
+    color: #b8b8b8;
+    font-size: 11px;
+}
+nav.navbar ul {
+    margin-left: 0px;
+}
+.re_menu_bar {
+    box-shadow: 0px 4px 22px -11px rgba(0,0,0,0.75);
+}
+.res_nav_shad{
+	box-shadow: 0px 4px 22px -11px rgba(0,0,0,0.75);
+}
+.search {
+    margin-top: 41px;
+}
+.search form button {
+    right: 22px;
+    top: 84px;
+    background: transparent;
+}
+.header_descrip {
+    background: url(../img/background.png);
+    min-height: 0px;
+    width: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    margin-top: 0px;
+    height: 200px;
+}
+.heading h1 {
+    letter-spacing: 0px;
+    font-size: 16px;
+    padding-top: 12px;
+}
+.heading h2 {
+    font-size: 22px;
+    padding-top: 0px;
+}
+.heading {
+   margin-top: 0px;
+    padding: 5px 7px;
+}
+.exp_btn {
+   padding: 5px 18px 5px 71px!important;
+}
+.exp_two {
+    padding: 7px 25px 7px 46px;
+}
+.top_button {
+   margin-right: 5px;
+    padding: 5px 13px 5px 40px;
+    
+}
+.icon_txt {
+    font-size: 10px;
+}
+.btn_sec {
+    margin-top: 10px;
+}
+.paly_btn img {
+    margin-right: 2px;
+    padding-bottom: 5px;
+    height: 20px;
+}
+.paly_btn {
+    padding: 10px 5px;
+    font-size: 12px;
+}
+.apple_btn {
+    margin-left: 0px;
+}
+.download_btn {
+    padding-top: 40px;
+}
+.on_btn .fas.fa-play {
+    background: #e48d25;
+    padding: 16px 19px;
+    border-radius: 50%;
+    opacity: 0.9;
+    color: #fff;
+    font-size: 20px;
+}
+.on_btn {
+   margin-top: -175px;
+    text-align: center;
+    margin-left: 195px;
+}
+.top_btn {
+    padding-top: 20px;
+}
+section {
+    padding: 100px 0px;
+}
+.service_heading h2 {
+    font-size: 35px;
+}
+.service_heading p {
+    width: 90%;
+    font-size: 20px;
+    padding-top: 30px;
+}
+.short_site {
+    padding-left: 0px;
+    padding-right: 0px;
+}
+.erst_heading{
+	margin-top: 50px;
+}
+.trail_btn {
+    width: 72%;
+    margin: 0px auto;
+    margin-top: 125px;
+}
+.trail_link {
+    padding: 18px 32px;
+    background: #ff8c00;
+    font-size: 18px;
+    border-radius: 40px;
+    color: #ffffff;
+    -webkit-box-shadow: 2px 3px 19px -5px rgba(255,140,0,1);
+    -moz-box-shadow: 2px 3px 19px -5px rgba(255,140,0,1);
+    box-shadow: 2px 3px 19px -5px rgba(255,140,0,1);
+}
+.fot_area {
+    display: flex;
+    justify-content: space-between;
+    padding: 30px 12px;
+    font-size: 14px;
+}
+.each_shop_body {
+    padding: 18px 5px;
+}
+.mob_resport{
+    margin-top: -51px;
+}
+.another_port:hover .another_portfolioDisc {
+    min-height: 800px;
+}
+/*-================= Work Page ====================-*/
+.second_nav{
+    background: #fff;
+}
+.each_work_card {
+    margin-left: 0px;
+    padding: 18px 5px;
+}
+.intro_sec {
+    width: 41%;
+}
+.food_item_one img {
+    width: 88%;
+    height: 375px;
+}
+.food_item_two img {
+    width: 93%;
+    height: 365px;
+}
+.food_item_one {
+
+    left: 5%;
+}
+.food_item_two {
+    top: 175px;
+    left: 8%;
+}
+.responsive_work_play{
+	margin-top: 300px;
+    text-align: center;
+    margin-left: 131px;
+}
+/*-================= Price Page ====================-*/
+
+.shape_eachi_price {
+    margin-left: 0px;
+    margin-top: 50px;
+}
+.ordering_sec {
+    display: block;
+    margin-left: 0px;
+    margin-top: 85px;
+}
+.eachi_price {
+    width: 23rem;
+}
+.price_heading {
+    margin-top: 100px;
+}
+.price_heading p {
+    font-size: 16px;
+    margin-top: 40px;
+}
+.service_top_txt {
+    font-size: 13px;
+    padding-bottom: 28px;
+}
+.responsive_main_serve{
+	margin-top: 90px;
+    width: 95%;
+    margin-left: 8px;
+    margin-bottom: 100px;
+}
+
+/*-================= Contact Page ====================-*/
+.in_name {
+    width: 100%;
+    
+}
+.in_msg {
+    width: 100%;
+}
+#mc-form {
+    margin-top: 5px;
+    margin-bottom: 100px;
+}
+
+/*-================= Start Page ====================-*/
+.get_start_sec {
+    width: 100%;  
+}
+.claim_get_sec {
+    width: 100%;
+}
+.claim_get_sec a {
+    padding: 15px 55px;
+}
+
+/*-================= login Page ====================-*/
+.log_form {
+    width: 100%;
+}
+
+
+
+}
+
+
+
+
+
+/*		Tablet Layout: 768px		 */
+
+@media only screen and (min-width: 768px) and (max-width: 991px){
+
+.imenu_logo {
+    padding-top: 0px;
+    margin-right: 0px;
+    margin-left: 0px;
+}
+.imenu_logo img{
+    height: 85px;
+}
+.header_btn {
+    margin-right: 16px;
+    padding: 10px 30px;
+    background: #ff8c00;
+    border: 1px solid #ff8c00;
+    border-radius: 33px;
+    color: #ffffff;
+    font-size: 14px;
+}
+.header_sign {
+    padding: 10px 46px;
+    background: transparent;
+    border-radius: 33px;
+    border: 1px solid #b8b8b8;
+    color: #b8b8b8;
+    font-size: 14px;
+}
+.re_menu_bar {
+    box-shadow: 0px 4px 22px -11px rgba(0,0,0,0.75);
+}
+.header_descrip {
+    min-height: 0px;
+    margin-top: 0px;
+    height: 400px;
+}
+.heading h1 {
+    font-weight: 100;
+    letter-spacing: 0px;
+    font-size: 35px;
+}
+.exp_btn {
+    padding: 11px 75px !important;
+}
+.top_button {
+    padding: 11px 40px;
+}
+.heading {
+    margin-top: 75px;
+    padding: 0px;
+}
+.paly_btn {
+    padding: 14px 6px;
+    font-size: 15px;
+}
+.on_btn .fas.fa-play {
+    background: #e48d25;
+    padding: 33px 38px;
+    font-size: 32px;
+}
+.on_btn {
+    margin-top: 145px;
+    text-align: center;
+    margin-right: 60px;
+}
+.download_btn {
+    padding-top: 60px;
+}
+section {
+    padding: 100px 0px;
+}
+.respons_serv_con{
+    max-width: 760px;
+}
+.rest_img {
+    width: auto;
+    height: 90px;
+}
+.each_sec h5 {
+    font-size: 10px;
+}
+.each_sec .fas.fa-star {
+    color: #ffcb00;
+    font-size: 8px;
+}
+.review {
+    font-size: 9px;
+}
+.each_time {
+    font-size: 9px;
+}
+.credit {
+    font-size: 10px;
+}
+.credit .fas.fa-credit-card{
+    margin-right: 5px;
+}
+.tab_res h3{
+    font-size: 18px;
+}
+.search form input {
+    height: 35px;
+    font-size: 10px;
+}
+.shape-another {
+    min-height: 330px;
+}
+.search form button {
+    top: 69px;
+    font-size: 13px;
+}
+.trail_btn {
+    width: 55%;
+}
+.each_shape {
+    min-height: 360px;
+}
+.shape-another{
+    min-height: 330px!important;
+}
+.dist_mes {
+    display: flex;
+    justify-content: space-between;
+    font-size: 10px;
+}
+.cuisine h6{
+    font-size: 14px;
+}
+.choose_item a {
+    font-size: 8px;
+    padding: 3px 4px;
+}
+.choose_category a {
+    font-size: 6px;
+    padding: 3px 12px;
+}
+.form-group {
+    font-size: 11px;
+}
+.form-group label:before {
+    margin-top: -7px;
+}
+.topping_radio {
+    font-size: 11px;
+}
+.price_area {
+    font-size: 12px;
+}
+.cart_btn {
+    font-size: 13px;
+    margin-top: 15px;
+}
+.food_search {
+    display: block;
+    margin-top: 20px;
+}
+.tab_card{
+    margin: 0px auto;
+    margin-bottom: 18px;
+    -webkit-box-shadow: -2px 11px 22px -17px rgba(0,0,0,0.75);
+    -moz-box-shadow: -2px 11px 22px -17px rgba(0,0,0,0.75);
+    box-shadow: -2px 11px 22px -17px rgba(0,0,0,0.75);
+}
+.food_menu_head h3 {
+    margin-top: 35PX;
+     padding-left: 0px; 
+    font-size: 21px;
+    text-align: center;
+}
+.food_futer {
+    margin-top: 40px;
+    font-size: 16px;
+    padding: 1px 12px;
+}
+/*-=================Work Page ====================-*/
+.second_nav{
+    background: #fff;
+}
+.food_item_one img {
+    width: 99%;
+    height: 419px;
+}
+.food_item_two img {
+    width: 104%;
+    height: 400px;
+}
+.responsive_work_play{
+    margin-top: 295px;
+    /* margin-right: 96px; */
+    margin-left: 130px;
+}
+.intro_sec {
+    padding: 20px 0px;
+    margin-top: 84px;
+    width: 100%;
+}
+.res_nav_shad{
+    box-shadow: 0px 4px 22px -11px rgba(0,0,0,0.75);
+}
+/*-=================Price Page ====================-*/
+.eachi_price {
+    width: 21rem;
+}
+.ordering_sec {
+     margin-left: 0px;
+}
+.shape_eachi_price {
+    margin-left: 50px;
+}
+.price_ico {
+    padding: 34px 0px;
+}
+.price_heading {
+    margin-top: 80px;
+}
+.log_form {
+    width: 100%;
+}
+.con_social {
+    width: 100%;
+}
+/*-=================Start Page ====================-*/
+.claim_get_sec {
+    width: 70%;
+}
+/*-=================login Page ====================-*/
+.login_box {
+    margin-top: 220px;
+}
+
+
+
+	
+}
+
+
+
+
+
+
+
+
